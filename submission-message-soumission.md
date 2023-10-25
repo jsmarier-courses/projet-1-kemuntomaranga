@@ -2,7 +2,7 @@
 
 ##Nom de l'étudiant | Student Name:
 
-John Smith
+Kemunto Maranga
 
 ##GitHub Pages:
 
@@ -12,9 +12,11 @@ https://jsmarier.github.io/Template-for-the-Website-Project/
 
 ##CSS:
 
-1. I used crimson as a colour for my h1 headings.
-2. J'ai ajouté une classe h2-bleu à certains titres de niveau 2 et ai modifié la feuille CSS pour les rendre bleus.
-3. I changed the background colour from whitesmoke to darkblue.
-4. J'ai mis Arial comme police par défaut pour tous les paragraphes.
-5. I used a font size of 18px in my paragraphs.
-6. Etc.
+1. Changed background colour of top bar to white
+2. Changed background colour of page content to rgb(240, 240, 240)
+3. Added Table class and made the border colour black
+4. Changed it to a collapsed border
+5. Added centertext class
+6. Changed center text colour to be dark blue
+7. Added class text-decoration to underline and bold certain text
+8. Added indent class
